@@ -1,6 +1,6 @@
 #!/bin/bash
 
-vimrc_path = "~/.vimrc"
+vimrc_path="~/.vimrc"
 
 if [ ! -f $vimrc_path ]; then
     rm ~/.vimrc 
